@@ -24,7 +24,7 @@ Configure Environment Variables: Copy the .env.example file to .env if you don't
 
 APP_NAME=Laravel
 APP_ENV=local
-APP_KEY=base64:33yheJDh4aCrB7zk+gANFeYq8k+gZ+TsW4qvA+A+Cjc=
+APP_KEY=secret
 ...
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
